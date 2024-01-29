@@ -88,5 +88,5 @@ Install .apk file
 
 ## Support
 
-For support, email i@sheershbhatnagar.me
+For support, email feliciien@gmail.com
 
